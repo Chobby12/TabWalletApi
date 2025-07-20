@@ -18,6 +18,14 @@ A simple RESTful API built with Node.js and Express for serving user data. Suppo
 - Express.js
 - CORS
 
+### USE API
+
+1. https://tabwalletapi.onrender.com/api/v1/users
+2. https://tabwalletapi.onrender.com/api/v1/users?search=[name]&&limit=[num]
+3. https://tabwalletapi.onrender.com/api/v1/users?search=[name]
+4. https://tabwalletapi.onrender.com/api/v1/users-portfolio/:portfolio
+5. https://tabwalletapi.onrender.com/api/v1/users/:id
+
 ## 📦 Installation
 
 ```bash
