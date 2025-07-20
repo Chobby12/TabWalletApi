@@ -7,7 +7,7 @@
     "start": "nodemon ."
   },
   "keywords": [],
-  "author": "",
+  "author": "Chobby12",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
